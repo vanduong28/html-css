@@ -1,0 +1,29 @@
+body {
+  background: #34b284;
+}
+.title {
+  text-align: center;
+}
+
+ul {
+  font-size: 18px;
+}
+.h1-wrapper h2 {
+  background: blue
+}
+.paragraph {
+  margin-left: 20px;
+  margin-top: 20px;
+  line-height: 1.5;
+}
+.food-img {
+  height: 300px;
+  width: 300px;
+}
+.contact-form {
+  margin: 20px;
+  padding: 5px;
+  border: 2px solid black;
+  border-radius: 5px;
+  margin-left: 30px;
+}
